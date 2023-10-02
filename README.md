@@ -8,6 +8,6 @@ Store custom [BCheck](https://portswigger.net/burp/documentation/scanner/bchecks
 
 # 💻 IDE
 
-> ✅ The script [Test-Scripts.ps1](Test-Scripts.ps1) is used to validate the **BCheck** script locally and in the [push event](.github/workflows/validate-scripts.yml) to the repository.
+> ✅ The script [Test-Scripts.ps1](Test-Scripts.ps1) is used to validate the **BCheck** script locally and on every [push event](.github/workflows/validate-scripts.yml) to the repository.
 
 All scripts are developed using [Visual Studio Code](https://code.visualstudio.com/).
