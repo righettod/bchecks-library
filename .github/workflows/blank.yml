@@ -1,0 +1,15 @@
+name: Validate BCheck scripts
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run the validator
+        shell: pwsh
+        run: .\Test-Scripts.ps1 
