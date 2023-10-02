@@ -10,6 +10,14 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v3
+        name: Checkout the code base
+      - uses: actions/setup-java@v3
+        name: Install Java
+        with:
+          distribution: "temurin"
+          java-version: '17'      
       - name: Run the validator
         shell: pwsh
-        run: .\Test-Scripts.ps1 
+        run: |
+          java -version
+          .\Test-Scripts.ps1 
