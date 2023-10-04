@@ -1,6 +1,6 @@
 # Scripts not created by me but locally stored
 jsMapFile.bcheck
 # Scripts created by me and pushed to the BCheck PortSwigger repository
-# ...
+sameSiteDisabled.bcheck
 # Others stuff
 BCheckChecker*.jar
