@@ -2,6 +2,8 @@
 jsMapFile.bcheck
 # Scripts created by me and pushed to the BCheck PortSwigger repository
 # sameSiteDisabled.bcheck => Cookie-SameSite-Disabled.bcheck
+# stackTrace.bcheck       => stackTrace.bcheck
 sameSiteDisabled.bcheck
+stackTrace.bcheck
 # Others stuff
 BCheckChecker*.jar
