@@ -9,7 +9,7 @@ jobs:
   validate:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: Checkout the code base
       - uses: actions/setup-java@v3
         name: Install Java JDK
