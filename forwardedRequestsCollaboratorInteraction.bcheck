@@ -1,6 +1,6 @@
 metadata:
     language: v2-beta
-    name: "Forwarded requests collaborator interaction"
+    name: "Forwarded requests collaborator interaction detected"
     description: "Checks for any interaction with a host added into an forwarded requests related HTTP request headers."
     author: "Dominique Righetto"
     tags: "active"
