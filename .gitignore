@@ -5,6 +5,6 @@ jsMapFile.bcheck
 # stackTrace.bcheck       => stackTrace.bcheck
 sameSiteDisabled.bcheck
 stackTrace.bcheck
-#corsCredentialedRequestsMisconfiguration.bcheck
+corsCredentialedRequestsMisconfiguration.bcheck
 # Others stuff
 BCheckChecker*.jar
