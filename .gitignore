@@ -6,5 +6,7 @@ jsMapFile.bcheck
 sameSiteDisabled.bcheck
 stackTrace.bcheck
 corsCredentialedRequestsMisconfiguration.bcheck
+httpMethodOverrideCapability.bcheck
+forwardedRequestsCollaboratorInteraction.bcheck
 # Others stuff
 BCheckChecker*.jar
