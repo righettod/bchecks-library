@@ -1,3 +1,5 @@
+# Validation tool
+BCheckChecker*.jar
 # Scripts not created by me but locally stored
 jsMapFile.bcheck
 # Scripts created by me and pushed to the BCheck PortSwigger repository
@@ -8,5 +10,3 @@ corsCredentialedRequestsMisconfiguration.bcheck
 httpMethodOverrideCapability.bcheck
 forwardedRequestsCollaboratorInteraction.bcheck
 Cookie-SameSite-Disabled.bcheck
-# Others stuff
-BCheckChecker*.jar
