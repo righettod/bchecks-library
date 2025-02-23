@@ -3,10 +3,8 @@ BCheckChecker*.jar
 # Scripts not created by me but locally stored
 jsMapFile.bcheck
 # Scripts created by me and pushed to the BCheck PortSwigger repository
-# sameSiteDisabled.bcheck => Cookie-SameSite-Disabled.bcheck
-sameSiteDisabled.bcheck
-stackTrace.bcheck
-corsCredentialedRequestsMisconfiguration.bcheck
-httpMethodOverrideCapability.bcheck
-forwardedRequestsCollaboratorInteraction.bcheck
 Cookie-SameSite-Disabled.bcheck
+corsCredentialedRequestsMisconfiguration.bcheck
+forwardedRequestsCollaboratorInteraction.bcheck
+httpMethodOverrideCapability.bcheck
+stackTrace.bcheck
