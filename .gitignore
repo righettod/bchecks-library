@@ -8,5 +8,6 @@ stackTrace.bcheck
 corsCredentialedRequestsMisconfiguration.bcheck
 httpMethodOverrideCapability.bcheck
 forwardedRequestsCollaboratorInteraction.bcheck
+Cookie-SameSite-Disabled.bcheck
 # Others stuff
 BCheckChecker*.jar
