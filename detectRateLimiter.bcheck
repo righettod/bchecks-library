@@ -6,7 +6,7 @@ metadata:
     tags: "passive","informative"
 
 define:
-    remediation_text = "It is a good point from defense perspective. A bypass will be needed from a offensive perspective."
+    remediation_text = "It is a good point from a defensive perspective. A bypass will be needed from a offensive perspective."
 
 # References used:
 # https://www.cloudflare.com/learning/bots/what-is-rate-limiting/
