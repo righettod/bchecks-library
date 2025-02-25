@@ -8,3 +8,4 @@ corsCredentialedRequestsMisconfiguration.bcheck
 forwardedRequestsCollaboratorInteraction.bcheck
 httpMethodOverrideCapability.bcheck
 stackTrace.bcheck
+detectRateLimiter.bcheck
